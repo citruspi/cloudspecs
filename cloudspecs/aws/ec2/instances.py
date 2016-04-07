@@ -10,7 +10,12 @@ type_ids = [
     't2.nano',
     't2.small',
     't2.medium',
-    't2.large'
+    't2.large',
+    'm4.large',
+    'm4.xlarge',
+    'm4.2xlarge',
+    'm4.4xlarge',
+    'm4.10xlarge'
 ]
 
 instance_details = {}
