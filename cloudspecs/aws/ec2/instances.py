@@ -19,7 +19,12 @@ type_ids = [
     'm4.xlarge',
     'm4.2xlarge',
     'm4.4xlarge',
-    'm4.10xlarge'
+    'm4.10xlarge',
+    'c4.large',
+    'c4.xlarge',
+    'c4.2xlarge',
+    'c4.4xlarge',
+    'c4.8xlarge'
 ]
 
 instance_details = {}
