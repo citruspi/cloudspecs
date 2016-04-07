@@ -36,7 +36,11 @@ type_ids = [
     'r3.xlarge',
     'r3.2xlarge',
     'r3.4xlarge',
-    'r3.8xlarge'
+    'r3.8xlarge',
+    'i2.xlarge',
+    'i2.2xlarge',
+    'i2.4xlarge',
+    'i2.8xlarge'
 ]
 
 instance_details = {}
