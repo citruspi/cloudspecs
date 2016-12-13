@@ -8,7 +8,7 @@ def load_data_files(directory='data'):
 
 setup(
     name='cloudspecs',
-    version='0.0.1',
+    version='0.1.1',
     author='Mihir Singh (@citruspi)',
     author_email='hello@mihirsingh.com',
     packages=find_packages(),
